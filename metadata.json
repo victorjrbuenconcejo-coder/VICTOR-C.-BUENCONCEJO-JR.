@@ -1,0 +1,5 @@
+{
+  "name": "Learning Style Diagnostic Test",
+  "description": "An interactive questionnaire to help students identify their dominant learning style: Visual, Auditory, or Verbal. Users answer a series of questions with ratings, and the app provides immediate feedback on their learning preference.",
+  "requestFramePermissions": []
+}
